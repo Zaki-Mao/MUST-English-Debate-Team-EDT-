@@ -23,7 +23,7 @@ Definitely cool clips here [MUST EDT 2018](https://www.bilibili.com/video/av3040
 
 ## Help
 
-Check more BP debate related tools here [TabbyCat](https://tabbycat.readthedocs.io/en/stable/) from [TabbyCatDebate](https://github.com/TabbycatDebate/tabbycat/tree/f0c1c055584b7307b686c911543b64073b54ff72)
+Check more BP debate related tools here [TabbyCat](https://tabbycat.readthedocs.io/en/stable/) from @[TabbyCatDebate](https://github.com/TabbycatDebate/tabbycat/tree/f0c1c055584b7307b686c911543b64073b54ff72)
 
 
 
