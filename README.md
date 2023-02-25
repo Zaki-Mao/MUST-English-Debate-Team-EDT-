@@ -12,7 +12,7 @@ Definitely cool clips here [MUST EDT 2018](https://www.bilibili.com/video/av3040
 
 ![](https://img.shields.io/badge/-MUSTEDT-yellow) Introduction to BP Debate
 
-![](https://img.shields.io/badge/-MUSTEDT-yellowgreen) MAD Training HandBook
+![](https://img.shields.io/badge/-MUSTEDT-yellowgreen) MAD Training HandBook 2010
 
 ![](https://img.shields.io/badge/-MUSTEDT-yellow) Rebuttle Lecture
 
