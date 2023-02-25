@@ -1,6 +1,8 @@
 # MUST-English-Debate-Team-EDT
 
-English Debate Team Training Materials for MUSTers from 2018 to 2019
+<div align=center><img src="https://img1.imgtp.com/2023/02/25/W0LWuaNf.png" width="20%">
+
+**English Debate Team** Training Materials for MUSTers from 2018 to 2019
 
 ## Clips 
 
